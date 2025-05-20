@@ -19,6 +19,16 @@
 
         <item name="closeIcon">@android:drawable/presence_offline</item>
     </style>
+    <style name="PopupMenuStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColor">@color/indigo_500</item>
+        <item name="android:itemBackground">@drawable/popup_menu_background</item>
+        <item name="android:popupAnimationStyle">@style/PopupAnimation</item>
+    </style>
+
+    <style name="PopupAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right</item>
+    </style>
 
 
 
