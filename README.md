@@ -49,18 +49,22 @@ Bu sınıf, uygulamanın kullanıcıya ilk gösterilen ana ekranıdır. Kullanı
 ---
 
 # 🅰️ Sözlük sayfası
-Eklenen kelimeler aşfabetik olarak listelenir listelenen içerik :
+Eklenen kelimeler alfabetik olarak listelenir listelenen içerik :
 - Kelimenin ingilizcesi ve türkçesi
 - İngilizce kelimenin baş harfi
   **Arama özelliği**
   -Hem ingilizce hemde türkçe kelimelere ilişkin arama özelliği
   -Kullanıcının aradığı kelimeyi hem baş harfi ile hemde arama ile kolayca bulabilmesi sağlanmıştır
-- **Tıklanma**
-- Listelenen kelimeye tıklandığında :
-  -Kelimenin türkçe ve ingilizcesi ,
-  -Kelimeye ilişkin görsel,
-  -Kelimenin geçtiği iki adet cümle gösterilir.
-  -TTS özelliği aşağıda verilmiştir.
+   ### 🖱️Tıklanma
+- Listelenen kelimeye tıklandığında
+- Kelimenin türkçe ve ingilizcesi
+- Kelimeye ilişkin görsel
+- Kelimenin geçtiği iki adet cümle gösterilir.
+- TTS özelliği aşağıda verilmiştir.
+ 
+
+ 
+  
 
   ## 🖋️ Kelime ekleme sayfası
 Kullanıcılar kendileri sisteme kelime ekleyebilirler kelime içeriği:
